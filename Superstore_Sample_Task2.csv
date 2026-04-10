@@ -1,0 +1,11 @@
+Order Date,Region,Category,Segment,Product Name,Sales,Profit
+2023-01-10,West,Technology,Consumer,Laptop,50000,8000
+2023-02-15,East,Furniture,Corporate,Chair,20000,2000
+2023-03-20,Central,Office Supplies,Home Office,Paper,5000,500
+2023-04-25,South,Technology,Consumer,Phone,30000,6000
+2023-05-30,West,Furniture,Corporate,Table,15000,1500
+2023-06-10,East,Office Supplies,Home Office,Binder,7000,700
+2023-07-14,Central,Technology,Consumer,Monitor,40000,7000
+2023-08-18,South,Furniture,Corporate,Desk,12000,1200
+2023-09-22,West,Office Supplies,Home Office,Pen,3000,300
+2023-10-30,East,Technology,Consumer,Tablet,25000,5000
